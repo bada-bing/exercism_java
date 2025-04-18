@@ -1,0 +1,6 @@
+.exercism
+.idea
+*gradle*
+bin
+build
+*.md
